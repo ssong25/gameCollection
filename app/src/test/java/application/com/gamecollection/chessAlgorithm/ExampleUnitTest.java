@@ -1,4 +1,4 @@
-package application.com.gamecollection;
+package application.com.gamecollection.chessAlgorithm;
 
 import org.junit.Test;
 
